@@ -1,6 +1,6 @@
 // process anti-kill [ring3], based on DRx debug hook
 // 
-// $ set PATH=C:\MinGW\mingw64\bin; C:\windows\system32\taskmgr; 
+// $ set PATH=C:\MinGW\mingw64\bin; && C:\windows\system32\taskmgr; 
 // $ g++ -m64 drnHook.cpp && a.exe
 // 
 // by aaaddress1@chroot.org
